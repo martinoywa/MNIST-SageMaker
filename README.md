@@ -1,5 +1,5 @@
 # MNIST-SageMaker
-Build, Train, Deploy, Query and MNIST Image Classifier on AWS
+Build, Train, Deploy, and Query an MNIST Image Classifier on AWS
 
 
 # Steps
