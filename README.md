@@ -17,4 +17,4 @@ Build, Train, Deploy, and Query an MNIST Image Classifier on AWS
 - Method 2 (Extensive Process then Query with a Lambda Function). Tagged as _v2 in the code.
 
 
-Build with ❤️ by [martinoywa](https://github.com/martinoywa)
+Built with ❤️ by [martinoywa](https://github.com/martinoywa)
